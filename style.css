@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@600&display=swap');
+
+* {
+    box-sizing: border-box ;
+}
+
+html {
+   box-sizing: border-box ;
+   direction: rtl;
+}
+
+body {
+    font-family: 'Metal Mania', cursive;
+    letter-spacing: 1px;
+}
+
+    h1 {
+    font-size: 59px;
+}
+
+.container {
+    width: 1400;
+    margin: 1 auto;
+    padding: 20px;
+    border:4px solid #0c790a;
+    border-radius: 6px ;
+}
+h2 {
+    color: rgba(138, 63, 9, 0.705);
+    font-size:
+}
+
+.name {
+    display: inline-block;
+}
+
+.profile-image {
+    float: right;
+    height: 430;
+    width: 300;
+    border-radius:50% ;
+}
